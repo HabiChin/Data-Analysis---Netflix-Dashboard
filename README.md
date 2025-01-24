@@ -16,3 +16,6 @@ Regional Performance Analysis - Evaluating content popularity by country or regi
 **Benefits of Analysing This Dataset:**
 
 Analyzing Netflix data provides valuable insights that can help optimize business strategies, improve customer experience, and enhance content performance.
+
+**Dashboard:**
+![Netflix dashboard](https://github.com/user-attachments/assets/e64ed741-9c67-4bbb-b81a-a3615679d168)
